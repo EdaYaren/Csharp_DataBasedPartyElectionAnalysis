@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DatabaseElectionProject.exe" version="1.0.0.0" publicKeyToken="58577a2300ed6f1c" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DatabaseElectionProject" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DatabaseElectionProject.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DatabaseElectionProject.exe" size="20960">
+      <assemblyIdentity name="DatabaseElectionProject" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MBWZ6hNjvYnasR/amy57DirdxBIKEdI94Inyq4/fmtw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DatabaseElectionProject.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-FM26IC9\Yaren" issuerKeyHash="5dd4ee9cdac30fe093135418957f937d04cf6c0c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GD86qaYG8yuXKKtn4OprWn/6whC50GOL86gtweLnrV4=</DigestValue></Reference></SignedInfo><SignatureValue>lWIwUj1a25vxhcFkZPL35UD4yutU4g2MR77WduxhuA+BrMD/b3IPTAEd0RtJHmXgBTCV13Kom1/4zx56tyzO9iYdxlqU42Olv5P5wI8fT/Zp64Q3I8D4KFKD80wDRl7vcQVpzDvflFemH9aeF5Hyj7lejc6Od42k08jMgtig7to=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pN+Dl9BoiDltBgC9XIBk6l6IF20uKYQZgS6OPIWR+NAgSMhwVliA3H/LRkAoWFQRoUejYmZumC3Gl0jdA/1cxLDBtdJv5yCkdO8d9jcPePNHvyI13QEshYkUjO55T92FZbOkGwdyayyD/ipUVwZjmrWdhHMDlNAyu7XUqAjXC70=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5eade7e2c12da8f38b63d0b910c2fa7f5a6beae067ab28972bf306a6a93a3f18" Description="" Url=""><as:assemblyIdentity name="DatabaseElectionProject.exe" version="1.0.0.0" publicKeyToken="58577a2300ed6f1c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-FM26IC9\Yaren</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Iqs1brdRVIolaxT7E3ub1QDh5IuxTdgUDhVpnvxwk3s=</DigestValue></Reference></SignedInfo><SignatureValue>PXU0/+KYo3RgE2dTAP8SbdQD5luSPC6wHLtliPSLLT7fRVXVGLcvfAKJ/7OA7F1t3w3lg+mniKqU57vQG3b3lew6+7V9yvWP3GBIv/kyDP3XFIpBvXc4E4hiqVGUcjGeLtGLkbteuwkfTc6yw5Z1Ywf+hVJ0fUObrC1Q3wUKZs4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pN+Dl9BoiDltBgC9XIBk6l6IF20uKYQZgS6OPIWR+NAgSMhwVliA3H/LRkAoWFQRoUejYmZumC3Gl0jdA/1cxLDBtdJv5yCkdO8d9jcPePNHvyI13QEshYkUjO55T92FZbOkGwdyayyD/ipUVwZjmrWdhHMDlNAyu7XUqAjXC70=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQNK+45Od5pLpMy4RJqJNMjTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEYATQAyADYASQBDADkAXABZAGEAcgBlAG4wHhcNMjQxMTIxMTMxOTA4WhcNMjUxMTIxMTkxOTA4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEYATQAyADYASQBDADkAXABZAGEAcgBlAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKTfg5fQaIg5bQYAvVyAZOpeiBdtLimEGYEujjyFkfjQIEjIcFZYgNx/y0ZAKFhUEaFHo2JmbpgtxpdI3QP9XMSwwbXSb+cgpHTvHfY3D3jzR78iNd0BLIWJFIzueU/dhWWzpBsHcmssg/4qVFcGY5q1nYRzA5TQMru11KgI1wu9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAfSdZDBXAtYXDRGyYw6Vmh3x9yOrMniYb/RyTcsGgmbBQ2lP3If5IDIu9CQs1QvtkvH0ADqiYew2Bfru7iKln3qfG0n5k9NTV6kT2dsctjZi07TlxSPq9Ru/VxfW+dn22CAaAs6UDZ5BFZQLZX98D8gWO3ETvxcjzCyhqWzeKIMA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

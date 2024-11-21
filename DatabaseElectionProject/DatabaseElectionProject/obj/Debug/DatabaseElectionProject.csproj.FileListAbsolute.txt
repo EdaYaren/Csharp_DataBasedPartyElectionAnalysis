@@ -1,0 +1,16 @@
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\bin\Debug\DatabaseElectionProject.exe.config
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\bin\Debug\DatabaseElectionProject.exe
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\bin\Debug\DatabaseElectionProject.pdb
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.csproj.AssemblyReference.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.FrmEntry.resources
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.Properties.Resources.resources
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.csproj.GenerateResource.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.csproj.CoreCompileInputs.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.exe
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.pdb
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.FrmGraphics.resources
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\bin\Debug\DatabaseElectionProject.exe.manifest
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\bin\Debug\DatabaseElectionProject.application
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.exe.manifest
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Seçim İstatistik ve Grafik Sistemi\DatabaseElectionProject\DatabaseElectionProject\obj\Debug\DatabaseElectionProject.application
