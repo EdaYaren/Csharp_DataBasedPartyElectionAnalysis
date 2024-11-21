@@ -32,14 +32,17 @@ Proje, oy bilgilerini saklamak için kullanılan bir sql veritabanına sahiptir.
 ### 1️⃣ Giriş Ekranı
 Giriş ekranı, kullanıcıların seçim verilerini girebileceği ana ekranı temsil eder. Bu ekranda, ilçelerin adı ve her bir parti için toplam oy sayıları girilebilir. Kullanıcı, ilçenin adını yazarak her bir parti için oy sayısını girdikten sonra "Oy Girişi Yap" butonuna tıklayarak verileri veritabanına kaydedebilir.
 
-<img src="images/entry_screen.png" alt="Giriş Ekranı" width="600">
-
+<p align="center">
+  <img src="https://github.com/EdaYaren/Csharp_DataBasedPartyElectionAnalysis/blob/main/Vote%20Entry.png" alt="Giriş Ekranı" width="500">
+</p>
 ---
 
 ### 2️⃣ Grafik Ekranı
 Grafik ekranı, seçim sonuçlarının görsel olarak sunulduğu alandır. Bu ekranda, kullanıcılar ilçeyi seçerek, ilgili ilçenin parti bazında oy oranlarını grafiksel olarak görebilir. Ayrıca, genel seçim sonuçları da burada bar grafiği şeklinde gösterilir. İlçe seçildikçe, her bir partinin oy oranları, grafiklerdeki barlarla birlikte ilerler. Ayrıca, her bir partinin oy sayıları, progress barlar üzerinde ve metin olarak gösterilir. 
 
-<img src="images/graphics_screen.png" alt="Grafik Ekranı" width="600">
+<p align="center">
+  <img src="https://github.com/EdaYaren/Csharp_DataBasedPartyElectionAnalysis/blob/main/Graphics%20Screen.png" alt="Giriş Ekranı" width="800">
+</p>
 
 ---
 
